@@ -1,0 +1,29 @@
+{
+    "Skills": [
+        {"Name": "Python", "Nivel": "Intermediário", "Area": "Data Science", "URL": "https://cdn.picpng.com/logo/language-logo-python-44976.png"},
+        {"Name": "Javascript", "Nivel": "Intermediário", "Area": "Web Development", "URL": "https://logospng.org/download/javascript/logo-javascript-1024.png"},
+        {"Name": "React", "Nivel": "Intermediário", "Area": "Frontend", "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"},
+        {"Name": "Electron", "Nivel": "Intermediário", "Area": "Desktop", "URL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"},
+        {"Name": "Lógica de Programação", "Nivel": "Intermediário", "Area": "Programação", "URL": "https://cdn-icons-png.flaticon.com/512/1005/1005142.png"},
+        {"Name": "Git", "Nivel": "Iniciante", "Area": "DevOps", "URL": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"},
+        {"Name": "Node", "Nivel": "Iniciante", "Area": "Backend", "URL": "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"},
+        {"Name": "C", "Nivel": "Iniciante", "Area": "Programação", "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"},
+        {"Name": "Estrutura de Dados", "Nivel": "Iniciante", "Area": "Computação", "URL": "https://hackr.io/tutorials/learn-data-structures-algorithms/logo/logo-data-structures-algorithms?ver=1587721467"},
+        {"Name": "Matemática para Computação", "Nivel": "Iniciante", "Area": "Matemática", "URL": "https://www.clipartkey.com/mpngs/m/293-2931158_picture-of-math-symbols-18-buy-clip-art.png"},
+        {"Name": "Algoritmos", "Nivel": "Intermediário", "Area": "Computação", "URL": "https://previews.123rf.com/images/eljanstock/eljanstock1809/eljanstock180900052/107902502-algorithm-icon-vector-isolated-on-white-background-logo-concept-of-algorithm-sign-on-transparent-bac.jpg"},
+        {"Name": "HTML5", "Nivel": "Intermediário", "Area": "Web Development", "URL": "https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png"},
+        {"Name": "Bootstrap", "Nivel": "Intermediário", "Area": "Frontend", "URL": "https://www.kindpng.com/picc/m/225-2258787_bootstrap-4-logo-png-clipart-png-download-bootstrap.png"},
+        {"Name": "CSS3", "Nivel": "Intermediário", "Area": "Frontend", "URL": "https://logospng.org/download/css-3/logo-css-3-2048.png"},
+        {"Name": "MySQL", "Nivel": "Iniciante", "Area": "Data Science", "URL": "https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"},
+        {"Name": "Banco de Dados", "Nivel": "Iniciante", "Area": "Data Science", "URL": "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/38746b66-1ab6-441f-ba25-4fae71739e7a.png?auto=format&q=50&fit=fill"},
+        {"Name": "Análise de Dados: Numpy e Pandas", "Nivel": "Intermediário", "Area": "Data Science", "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"},
+        {"Name": "Web Scraping", "Nivel": "Intermediário", "Area": "Data Science", "URL": "https://uploads-ssl.webflow.com/5eb586cf7696a9c27238a7ed/6095431c47d094515c19ca88_Byteline-icon2.png"},
+        {"Name": "Visualização de Dados", "Nivel": "Intermediário", "Area": "Data Science", "URL": "https://cdn-icons-png.flaticon.com/512/6332/6332308.png"},
+        {"Name": "Machine Learning: Classificação", "Nivel": "Iniciante", "Area": "Data Science", "URL": "https://thumbs.dreamstime.com/b/classification-icon-thin-linear-outline-isolated-white-background-general-collection-line-vector-sign-symbol-web-165502102.jpg"},
+        {"Name": "Visão Computacional", "Nivel": "Iniciante", "Area": "Data Science", "URL": "https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png"},
+        {"Name": "Linux", "Nivel": "Iniciante", "Area": "DevOps", "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png"},
+        {"Name": "Github", "Nivel": "Intermediário", "Area": "DevOps", "URL": "https://camel.apache.org/camel-kamelets/0.8.x/_images/kamelets/github-commit-source.svg"},
+        {"Name": "Figma", "Nivel": "Intermediário", "Area": "Design", "URL": "https://masia.pk/images/news/new-course-of-graphics-designing-with-figma-ui-designing-1653450914.png"},
+        {"Name": "Unity", "Nivel": "Intermediário", "Area": "Game", "URL": "https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"}
+    ]
+}
